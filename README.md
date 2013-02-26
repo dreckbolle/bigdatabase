@@ -10,6 +10,6 @@ git clone git://github.com/dreckbolle/bigdatabase.git
 
 cd bigdatabase
 
-sudo sh installapachephp.shsudo
+sudo sh installapachephp.sh
 
 sudo sh installpostgis.sh
