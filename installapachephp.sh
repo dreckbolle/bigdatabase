@@ -14,3 +14,4 @@ sudo apt-get install php5
 #sudo gedit phpinfo.php
 #einfügen und speichern: <?php phpinfo();?>
 #Testen: localhost/phpinfo.php
+
