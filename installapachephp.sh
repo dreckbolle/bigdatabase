@@ -1,4 +1,8 @@
 #!/bin/bash
+#be up to date
+sudo apt-get update
+sudo apt-get upgrade
+
 #Apache:
 #Infos: http://wiki.ubuntuusers.de/Apache
 #Install: 
